@@ -2,19 +2,19 @@
 
 ## Hi there 👋
 
-I am a software engineer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, database technologies, cloud technologies and best and most applicable code practices available in the industry. During my 8 years (And counting)  of industry i always tried to deliver best available solution for the clients. And i always succeeded.
+I am a software engineer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, database technologies, cloud technologies, and the best and most applicable code practices available in the industry. During my 8 years (And counting)  in the industry I always tried to deliver the best available solution for the clients. And I always succeeded.
 
 
 ### Skills And Technologies
 
-Javascript, Node Js, Express Js, NestJs, React Js, Redux, Css, HTML, MongoDB, Elastic Search, Redis, PostgreSql, Docker, Microservices, API Integration, Serverless, AWS and Devops. 
+Javascript, Node Js, Express Js, NestJs, React Js, Redux, CSS, HTML, MongoDB, Elastic Search, Redis, PostgreSQL, Docker, Microservices, API Integration, Serverless, AWS, and DevOps. 
 
-### Experiance
+### Experience
 
 
-## Virtual capital technologies - New Zealand (Jun-2015 - Precent)
+## Virtual capital technologies - New Zealand (Jun-2015 - present)
 
-Currently Working on a web based workflow managment system.
+Currently Working on a web-based workflow management system.
 
 #### Technologies 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
