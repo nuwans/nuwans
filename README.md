@@ -12,7 +12,7 @@ Javascript, Node Js, Express Js, NestJs, React Js, Redux, CSS, HTML, MongoDB, El
 ### Experience
 
 
-## Virtual capital technologies - New Zealand (Jun-2015 - present)
+## Virtual capital technologies - New Zealand (Jan-2016 - present)
 
 Currently Working on a web-based workflow management system.
 
